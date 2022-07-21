@@ -1,0 +1,50 @@
+1 Tetris 1984 Multiplateforme 170
+2 Minecraft 2009 "Microsoft Windows, OS X, Linux, Java, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Android, iOS, Windows Phone, Raspberry Pi, Amazon Fire TV, Kindle Fire, Nintendo Switch, New Nintendo 3DS" 144
+3 "Grand Theft Auto V" 2013 "PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Microsoft Windows" 95
+4 "Wii Sports" 2006 Wii 82.83
+5 "The Oregon Trail (franchise)" 1971 "Microsoft Windows, Mac, iOS, Android, 3DS, Apple II" 65
+6 "Counter-Strike: Global Offensive" 2012 "Microsoft Windows, Mac, Linux" 40.95
+7 "Super Mario Bros." 1985 "Nintendo Entertainment System" 40.24
+8 "Mario Kart Wii" 2008 Wii 37.02
+9 "Wii Sports Resort" 2009 Wii 33.06
+10 "Pokémon Rouge et Bleu" 1996 "Game Boy, Game Boy Color, Nintendo 3DS" 31.38
+11 "New Super Mario Bros." 2006 "Nintendo DS" 30.79
+12 "New Super Mario Bros. Wii" 2009 Wii 30.1
+13 "Diablo III" 2012 "Microsoft Windows, OS X, Xbox 360, PlayStation 3, Xbox One, PlayStation 4" 30
+14 "PlayerUnknown's Battlegrounds" 2017 "Microsoft Windows, Xbox One" 30
+15 "The Elder Scrolls V: Skyrim" 2011 "Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Nintendo Switch" 30
+16 "Duck Hunt" 1984 "Nintendo Entertainment System" 28.3
+17 "Wii Play" 2006 Wii 28.02
+18 "Grand Theft Auto: San Andreas" 2004 "PlayStation 2, Microsoft Windows, Xbox, Mac OS X, Xbox 360" 27.5
+19 "Call of Duty: Modern Warfare 3" 2011 "Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS" 26.5
+20 "Call of Duty: Black Ops" 2010 "Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS" 26.2
+21 "Grand Theft Auto IV" 2008 "PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X" 25
+22 "Call of Duty: Black Ops II" 2012 "Microsoft Windows, Xbox 360, PlayStation 3, Wii U" 24.2
+23 "Kinect Adventures" 2010 "Xbox 360" 24
+24 Nintendogs 2005 "Nintendo DS" 23.96
+25 "Mario Kart DS" 2005 "Nintendo DS" 23.59
+26 "Pokémon Or et Argent" 1999 "Game Boy, Game Boy Color" 23
+27 "Call of Duty: Modern Warfare 2" 2009 "Windows, Xbox 360, PlayStation 3, Nintendo DS" 22.7
+28 "Wii Fit" 2007 Wii 22.67
+29 "Wii Fit Plus" 2009 Wii 21.13
+30 "Super Mario World" 1990 "Super Nintendo Entertainment System" 20.6
+31 Terraria 2011 "Microsoft Windows, OS X, Linux, Apple iOS, Android, Windows Phone, Nintendo DS, PlayStation 4, PlayStation 3, PlayStation Vita, Xbox One, Xbox 360, Wii U, Nintendo 3DS, Nintendo Switch" 20.5
+32 "Les Sims 2" 2004 "Microsoft Windows, OS X, Game Boy Advance, GameCube, Nintendo DS, PlayStation 2, PlayStation Portable, Wii, Xbox" 20
+33 "Battlefield 3" 2011 "Microsoft Windows, Xbox 360, PlayStation 3" 20
+34 "Programme d'entraînement cérébral du Dr Kawashima : Quel âge a votre cerveau ?" 2005 "Nintendo DS" 19.01
+35 "Call of Duty: Ghosts" 2013 "Microsoft Windows, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Wii U" 19
+36 "Super Mario Land" 1989 "Game Boy, Game Boy Color" 18.14
+37 "Pokémon Diamant et Perle" 2006 "Nintendo DS" 17.63
+38 "Grand Theft Auto: Vice City" 2002 "Microsoft Windows, Xbox, PlayStation 2" 17.5
+39 "Super Mario Bros. 3" 1988 "Nintendo Entertainment System" 17.28
+40 "The Last of Us" 2013 "PlayStation 3, PlayStation 4" 17
+41 "Mario Kart 7" 2011 "Nintendo 3DS" 16.76
+42 "Pokémon X et Y" 2013 "Nintendo 3DS" 16.26
+43 "Pokémon Rubis et Saphir" 2002 "Game Boy Advance" 16.22
+44 "Pokémon Soleil et Lune" 2016 "Nintendo 3DS" 16.06
+45 "Les Sims" 2000 "Microsoft Windows, Mac OS" 16
+46 "Need for Speed: Most Wanted" 2005 "Game Boy Advance, GameCube, Microsoft Windows, PlayStation 2, PlayStation Portable, Xbox, Xbox 360" 16
+47 "Mario Kart 8" 2014 "Wii U, Nintendo Switch" 15.73
+48 "Call of Duty 4: Modern Warfare" 2007 "Microsoft Windows, Xbox 360, Mac OS X, PlayStation 3, Wii, Nintendo DS" 15.7
+49 "Call of Duty: World at War" 2008 "Microsoft Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS" 15.7
+50 "Pokémon Noir et Blanc" 2010 "Nintendo DS" 15.64

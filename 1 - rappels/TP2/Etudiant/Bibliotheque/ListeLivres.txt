@@ -1,0 +1,9 @@
+"L'ETRANGER" "etranger.jpg" "L’action se déroule en Algérie française. Meursault apprend par un télégramme la mort de sa mère" 4
+"L'ALCHIMISTE" "alchimiste.jpg" "Santiago, un jeune berger andalou, part à la recherche d'un trésor enfoui au pied des Pyramides" 5
+"LE PENDULE DE FOUCAULT" "lependule.jpg" "la suppression de l'ordre des Templiers aurait traversé l'Histoire. Objectif : la domination du monde." 3
+"LE PARFUM" "leparfum.jpg" "Jean-Baptiste Grenouille, meurtrier doté d'un odorat exceptionnel" 9
+"DA VINCI CODE" "davinci.jpg" "Robert Langdon, éminent spécialiste de symboles à Harvard est appelé au Louvre en pleine nuit..." 5
+
+
+
+
